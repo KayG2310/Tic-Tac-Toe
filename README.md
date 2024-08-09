@@ -39,13 +39,12 @@ Demonstration link : [https://drive.google.com/file/d/1fkDqkCY6jl1uSu561WdmPVAB_
 <br>
 steps :
 <ol>
-  <li>cclone the repository</li>
+  <li>clone the repository</li>
   <li>open the game directory</li>
   <li>compile main.cpp using g++ -std=c++11 -o tictactoe main.cpp</li>
   <li>run the command python3 graphics.py
  to keep the file running</li>
   <li>execute the executable file created using ./tictactoe</li>
   <li>for Windows - tictactoe.exe</li>
-  
-<li><h3>Happy Playing!</h3></li>
+  <li><h3>Happy Playing!</h3></li>
 </ol>
